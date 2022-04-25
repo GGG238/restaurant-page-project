@@ -1,3 +1,3 @@
 # restaurant-page-project
 
-A simple restaurant page usin webpack (all the code is on the other branch).
+A simple restaurant page using webpack (all the code is on the other branch).
